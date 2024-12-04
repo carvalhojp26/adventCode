@@ -30,10 +30,16 @@ Follow these steps to compile and run the code for any day's solution:
    Open a terminal and navigate to the folder for the day's solution. For example:
    ```bash
     cd Day_1
-    javac Main.java
-    java Main
+   
+2. **Compile the program**
+   ```bash
+   javac Main.java
 
-### Conclusion
+3. **Run the program**
+   ```bash
+   java Main
+   
+## Conclusion
 
 The Advent of Code is not only a great way to challenge yourself with programming puzzles, but also an excellent opportunity to learn and grow. By solving these challenges in Java, I'm building a deeper understanding of the language while honing my problem-solving skills.
 
